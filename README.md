@@ -1,5 +1,6 @@
-DentalClinic Website
 # Dental Clinic Website 💉
+
+<img align="center" width="80%" src="https://github.com/Mohamed20a/My-Portfolio/blob/main/assets/img/portfolio/clinic.png">
 
 ## What is Dental Clinic?
 Designing a website for a dental clinic that presents about the doctor and the most important services of the clinic and a way to communicate.
